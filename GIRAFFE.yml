@@ -4,3 +4,5 @@ tools:
     files:
       - GIRAFFE/porcupipeline.pork
     nodes:
+      - GIRAFFE/mrtrix3.json
+
